@@ -1,0 +1,4 @@
+[submodule "src/tex"]
+	path = src/tex
+	url = https://github.com/rodluger/overleaf-test.git
+	branch = tex
